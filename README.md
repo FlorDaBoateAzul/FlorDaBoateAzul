@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings. I am a time traveler from the year 2036. I am on my way home after getting an IBM 5100 computer system from the year 1975.
+### My time machine is a stationary mass, temporal displacement unit manufactured by General Electric. The unit is powered by two, top-spin, dual-positive singularities that produce a standard, off-set Tipler sinusoid.
+### I will be happy to post pictures of the unit. 👋
 
 <!--
 **FlorDaBoateAzul/FlorDaBoateAzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
