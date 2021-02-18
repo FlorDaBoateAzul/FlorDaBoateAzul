@@ -19,11 +19,11 @@
 
 ### Hobbies
   - 📖 Ler
-  - 🍨 Sorvete
   - 📚 Estudar
+  - 🍨 Sorvete
   - 🎎 Ver Anime
-  - 💻 Programar
   - 🤖 Eletrônica
+  - 💻 Programar
   - 🕹 Jogar Video-jogos
   - ☢️ Brincar com compostos altamente radioativos (Brincadeira, Eu espero)
 
@@ -44,7 +44,7 @@ Pessoas podem criar coisas incríveis quando encaradas por desafios. Estou aqui 
 - LinkedIn: https://linkedin.com/in/nero-haziel-0492271ab
 - MyAnimeList: https://myanimelist.net/profile/Darling_Moon
 - Github: https://github.com/Tchaikochan (Github Alternativo)
-- https://github.com/FlorDaBoateAzul
+- Github: https://github.com/FlorDaBoateAzul (Você já não está aqui?)
 
 
 
