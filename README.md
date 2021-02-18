@@ -37,12 +37,12 @@ Pessoas podem criar coisas incríveis quando encaradas por desafios. Estou aqui 
 
 ### Contatos
 
-- E-mail: NeroHaziel@outlook.com
+- E-mail: heporustfleur@gmail.com
 - Twitter: https://twitter.com/HepoHB
 - Pinterest: https://br.pinterest.com/HEPOHB
 - Reddit: https://www.reddit.com/user/HepoB
 - Instagram: https://www.instagram.com/HepoHB
-- LinkedIn: https://linkedin.com/in/nero-haziel-0492271ab
+- Steam: https://steamcommunity.com/id/HepoHB
 - MyAnimeList: https://myanimelist.net/profile/Darling_Moon
 - Github: https://github.com/Tchaikochan (Github Alternativo)
 - Github: https://github.com/FlorDaBoateAzul (Você já não está aqui?)
