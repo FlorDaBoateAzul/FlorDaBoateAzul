@@ -1,6 +1,6 @@
 ## Você atrás de mim é como eu atrás de encrenca
 
-### Esse é um perfil alternativo, logo, as informações continuam as mesmas:
+### Esse é meu perfil pessoal, logo, as informações continuam as mesmas:
 
   - País: Brasil
   - Aniversário: 2003/01/23
@@ -21,9 +21,10 @@
   - 📖 Ler
   - 📚 Estudar
   - 🍨 Sorvete
-  - 🎎 Ver Anime
   - 🤖 Eletrônica
+  - 🎎 Ver Anime
   - 💻 Programar
+  - 💋 Ver Pornô
   - 🕹 Jogar Video-jogos
   - ☢️ Brincar com compostos altamente radioativos (Brincadeira, Eu espero)
 
