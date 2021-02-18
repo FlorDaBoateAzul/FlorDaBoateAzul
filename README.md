@@ -21,10 +21,10 @@
   - 📖 Ler
   - 📚 Estudar
   - 🍨 Sorvete
+  - 💋 Ver Pornô
   - 🤖 Eletrônica
   - 🎎 Ver Anime
   - 💻 Programar
-  - 💋 Ver Pornô
   - 🕹 Jogar Video-jogos
   - ☢️ Brincar com compostos altamente radioativos (Brincadeira, Eu espero)
 
