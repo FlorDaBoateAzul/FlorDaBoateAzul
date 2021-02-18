@@ -1,12 +1,70 @@
-### Greetings. I am a time traveler from the year 2036. I am on my way home after getting an IBM 5100 computer system from the year 1975.
-### My time machine is a stationary mass, temporal displacement unit manufactured by General Electric. The unit is powered by two, top-spin, dual-positive singularities that produce a standard, off-set Tipler sinusoid.
-### I will be happy to post pictures of the unit. 👋
+## Você atrás de mim é como eu atrás de encrenca
+
+### Esse é um perfil alternativo, logo, as informações continuam as mesmas:
+
+  - País: Brasil
+  - Aniversário: 2003/01/23
+  - Comida favorita: Sorvete
+  - Altura: 1,60m (5’3”) de pura gostosura
+  - Banda Favorita: Pink Floyd || My Chemical Romance || Queen
+  - Estilo de Música Favorito: Clássica || Rock Progressivo || Jazz
+  - Cantor Favorito: David Bowie || Michael Jackson || Tomoko Kawase
+  - Jogo Favorito: Minecraft || Civilization VI || Sekiro: Shadow dies Twice
+  - Filme Favorito: Laranja Mecânica || Poderoso Chefão || O senhor dos aneis
+  - Livro Favorito: Cartas de um Diabo a seu Aprendiz || Laranja Mecânica || Fausto
+  - Anime Favorito: Shingeki no Kyojin || Overlord || Fate Stay/Night: Unlimited Blade Works
+  - Compositor Favorito: Piotr Ilitch Tchaikovski || Wolfgang Amadeus Mozart || Frédéric Chopin
+  - Idiomas Falados: Português(+) / Inglês(+) / Espanhol(+) / Italiano(±) / Japonês(±) / Russo(-)
+  - Pessoas que realmente respeito: Leonardo di Ser Piero da Vinci || Nero Claudius Caezar Augustus Germanicus || Eu mesma
+
+### Hobbies
+  - 📖 Ler
+  - 🍨 Sorvete
+  - 📚 Estudar
+  - 🎎 Ver Anime
+  - 💻 Programar
+  - 🤖 Eletrônica
+  - 🕹 Jogar Video-jogos
+  - ☢️ Brincar com compostos altamente radioativos (Brincadeira, Eu espero)
+
+### Por que estou aqui?
+Não apenas como programadores, mas como humanos, Somos os Deuses do Novo Mundo (Eu não sou Kira). Podemos fazer o que quisermos. <br /> 
+Terminou com seu namorado(Namorada)? Crie uma IA para substituí-la.<br />
+Está triste pois a última atualização de Terraria foi lançada? Crie mods para o jogo.<br />
+Seu cachorro morreu (Sinto sua dor 😭)? Por que não tentar ressucitá-lo com o poder da medicina (Em um futuro próximo)?<br />
+Pessoas podem criar coisas incríveis quando encaradas por desafios. Estou aqui pois quero criar coisas incríveis também.<br />
+
+### Contatos
+
+- E-mail: NeroHaziel@outlook.com
+- Twitter: https://twitter.com/HepoHB
+- Pinterest: https://br.pinterest.com/HEPOHB
+- Reddit: https://www.reddit.com/user/HepoB
+- Instagram: https://www.instagram.com/HepoHB
+- LinkedIn: https://linkedin.com/in/nero-haziel-0492271ab
+- MyAnimeList: https://myanimelist.net/profile/Darling_Moon
+- Github: https://github.com/Tchaikochan (Github Alternativo)
+
+
+
+<!--
+**Tchaikochan/Tchaikochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **FlorDaBoateAzul/FlorDaBoateAzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Horny? Yes, I am.
-INSERT INTO myPussy VALUES('BBC');
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
