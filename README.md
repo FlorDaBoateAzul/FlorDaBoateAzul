@@ -37,8 +37,10 @@ Pessoas podem criar coisas incríveis quando encaradas por desafios. Estou aqui 
 
 ### Contatos
 
+- Discord: @HepoHB#3812 
 - E-mail: heporustfleur@gmail.com
 - Twitter: https://twitter.com/HepoHB
+- Twitch: https://www.twitch.tv/hepohb
 - Pinterest: https://br.pinterest.com/HEPOHB
 - Reddit: https://www.reddit.com/user/HepoB
 - Instagram: https://www.instagram.com/HepoHB
