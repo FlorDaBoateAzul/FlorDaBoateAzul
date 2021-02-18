@@ -6,15 +6,15 @@
   - Aniversário: 2003/01/23
   - Comida favorita: Sorvete
   - Altura: 1,60m (5’3”) de pura gostosura
-  - Banda Favorita: Pink Floyd || My Chemical Romance || Queen
   - Estilo de Música Favorito: Clássica || Rock Progressivo || Jazz
+  - Banda Favorita: Pink Floyd || My Chemical Romance || Queen
   - Cantor Favorito: David Bowie || Michael Jackson || Tomoko Kawase
   - Jogo Favorito: Minecraft || Civilization VI || Sekiro: Shadow dies Twice
   - Filme Favorito: Laranja Mecânica || Poderoso Chefão || O senhor dos aneis
   - Livro Favorito: Cartas de um Diabo a seu Aprendiz || Laranja Mecânica || Fausto
   - Anime Favorito: Shingeki no Kyojin || Overlord || Fate Stay/Night: Unlimited Blade Works
-  - Compositor Favorito: Piotr Ilitch Tchaikovski || Wolfgang Amadeus Mozart || Frédéric Chopin
   - Idiomas Falados: Português(+) / Inglês(+) / Espanhol(+) / Italiano(±) / Japonês(±) / Russo(-)
+  - Compositor Favorito: Piotr Ilitch Tchaikovski || Wolfgang Amadeus Mozart || Frédéric Chopin
   - Pessoas que realmente respeito: Leonardo di Ser Piero da Vinci || Nero Claudius Caezar Augustus Germanicus || Eu mesma
 
 ### Hobbies
@@ -44,6 +44,7 @@ Pessoas podem criar coisas incríveis quando encaradas por desafios. Estou aqui 
 - LinkedIn: https://linkedin.com/in/nero-haziel-0492271ab
 - MyAnimeList: https://myanimelist.net/profile/Darling_Moon
 - Github: https://github.com/Tchaikochan (Github Alternativo)
+- https://github.com/FlorDaBoateAzul
 
 
 
